@@ -1,0 +1,4 @@
+cart = {}
+
+while True:
+    pass
